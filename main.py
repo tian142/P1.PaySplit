@@ -1,6 +1,8 @@
 # this script takes the user's inputs of meal price, tip paid, and the number of people splitting the meal to calculate the cost each individual has to pay
 # for commit 2nd commit
-#
+# for 3rd commit
+
+
 # prompts the user to enter meal price:
 meal_price = int(input('Please enter the price of your meal: '))
 # tax variable set to CA average of 7.5%
